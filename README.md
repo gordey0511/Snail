@@ -6,3 +6,5 @@
 https://github.com/gordey0511/Snail
 ## Устновите репозиторий:
 https://developer.android.com/studio?hl=ru
+## Запустите проект
+Нажмите на зеленый треугольник и выбирете девайс для запуска
