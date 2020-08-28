@@ -38,3 +38,8 @@ minSdkVersion >= 21
 targetSdkVersion = 29
 compileSdkVersion = 29
 buildToolsVersion = 29.0.3
+
+# Разработчики
+https://github.com/AKSUMRUS
+https://github.com/gordey0511
+https://github.com/BaHe4Ka
