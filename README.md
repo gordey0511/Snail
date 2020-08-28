@@ -40,9 +40,21 @@ compileSdkVersion = 29
 buildToolsVersion = 29.0.3
 
 # Как деплоить проект в продакшн
-```cmd
-npm run build
+Если вы хотите выложить приложение на Heroku, вы должны добавить связи:
+
 ```
+git remote add heroku-staging https://git.heroku.com/opencollective-staging-app.git
+git remote add heroku-production https://git.heroku.com/opencollective-prod-app.git
+```
+
+Затем вы можете запустить:
+
+```
+git push heroku-staging master
+git push heroku-staging branch:master
+```
+
+Приложение автоматически построится на Heroku.
 
 # Разработчики
 https://github.com/AKSUMRUS
