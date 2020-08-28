@@ -29,3 +29,8 @@ https://developer.android.com/studio?hl=ru
 Вы можете установить последнюю версию приложения, перейдя по ссылке: https://drive.google.com/file/d/1GLX89vQ92nWkrXlh24gYjmLjxuTkFAUG/view
 
 Минимальная версия Android 21
+
+#Разработчики:
+https://github.com/AKSUMRUS
+https://github.com/gordey0511
+https://github.com/BaHe4Ka
