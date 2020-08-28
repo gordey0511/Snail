@@ -39,7 +39,7 @@ targetSdkVersion = 29
 compileSdkVersion = 29
 buildToolsVersion = 29.0.3
 
-# Как деплоить преокт в продакшн
+# Как деплоить проект в продакшн
 ```cmd
 npm run build
 ```
