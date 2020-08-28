@@ -16,7 +16,7 @@
 
 Результат программы (Предлагаемый ВУЗ)
 :--------------------------------------------------------------------------------:
-![Final](https://sun9-8.userapi.com/e1cpKLkOey2Kk_ieZngvkKaNG6WSRGogvOtFVA/HPmtzMpryUg.jpg)
+![Final](https://sun9-60.userapi.com/GBg5jwcUVYbsePLFFJjCWRbb6ZZoylNaqWCjEg/Cu-2WO_W7Qw.jpg)
 # Как запустить приложение в Android Studio
 ## Скопировать репозиторий:
 https://github.com/gordey0511/Snail
