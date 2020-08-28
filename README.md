@@ -24,7 +24,7 @@ https://github.com/gordey0511/Snail
 https://developer.android.com/studio?hl=ru
 ## Запустите проект
 Нажмите на зеленый треугольник и выбирете девайс для запуска
-# Как запустить приложение на Android:
+# Как запустить приложение на Android
 
 Вы можете установить последнюю версию приложения, перейдя по ссылке: https://drive.google.com/file/d/1GLX89vQ92nWkrXlh24gYjmLjxuTkFAUG/view
 
