@@ -30,11 +30,11 @@ https://developer.android.com/studio?hl=ru
 
 Минимальная версия Android 21
 
+# Архитектурная диаграмма
+![Diagramm](https://psv4.userapi.com/c856324/u213671374/docs/d2/a2694e37e235/Untitled_Diagram.png?extra=Csdlc2kDSvTRGRRb_wMZE_4aIp28SJ_AVlVhb9lIMPvQ0NBmPGFWkheEEaOuncwUwzC8iu4vD0Zy9KNRBB_wTHO2AyXQaQ9kcW-Q07pKpxdplAOUzEUckgM488Q4hrRGdf6foSizgASSVn_O4PZxgHtN)
+
 # Внешние зависимости
 minSdkVersion >= 21
-
 targetSdkVersion = 29
-
 compileSdkVersion = 29
-
 buildToolsVersion = 29.0.3
