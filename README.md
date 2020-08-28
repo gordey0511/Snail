@@ -39,6 +39,11 @@ targetSdkVersion = 29
 compileSdkVersion = 29
 buildToolsVersion = 29.0.3
 
+# Как деплоить преокт в продакшн
+```cmd
+npm run build
+```
+
 # Разработчики
 https://github.com/AKSUMRUS
 https://github.com/gordey0511
