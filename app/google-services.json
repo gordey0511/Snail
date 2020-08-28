@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078975388452",
+    "firebase_url": "https://snail-project.firebaseio.com",
+    "project_id": "snail-project",
+    "storage_bucket": "snail-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078975388452:android:5712dd61d5ec6e1589f1b1",
+        "android_client_info": {
+          "package_name": "com.user.snail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078975388452-sk59ubri23nno718asscpoc72m8iuuqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.snail",
+            "certificate_hash": "16707bf7943d2c77566a178d8857b378093da2d4"
+          }
+        },
+        {
+          "client_id": "1078975388452-l51v7iiodtr688lutjjcp6shq1m9i4rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtootHwHkRG_QIihd53cjnDNxGW9fXCaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078975388452-l51v7iiodtr688lutjjcp6shq1m9i4rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

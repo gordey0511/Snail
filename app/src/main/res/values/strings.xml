@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="test">Необходимо набрать баллов </string>
+    <string name="some_text">some text</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="email">Email</string>
+</resources>
